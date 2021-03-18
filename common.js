@@ -1,9 +1,7 @@
-//----1---//
-function showConfirm(text) {
-  Test.postMessage(text);
+function openCamera() {
+  Test.postMessage('CAMERA: The web request to open the mighty Camera');
 }
 
-//----2---//
 function display(text) {
   console.log(text);
 }
