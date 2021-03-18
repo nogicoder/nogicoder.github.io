@@ -1,4 +1,4 @@
 //----1---//
 function showConfirm(text) {
-  alert(text);
+  console.log(text);
 }
