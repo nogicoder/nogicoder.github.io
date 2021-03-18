@@ -1,4 +1,4 @@
 //----1---//
 function showConfirm(text) {
-  console.log(text);
+  Test.postMessage(text);
 }
