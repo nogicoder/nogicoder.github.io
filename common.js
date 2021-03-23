@@ -5,3 +5,18 @@ function openCamera() {
 function display(text) {
   console.log(text);
 }
+
+function drawChart() {
+console.log("HELLLOOOOO");
+//JSC.Chart('chartDiv', {
+//   type: 'horizontal column',
+//   series: [
+//      {
+//         points: [
+//            {x: 'Apples', y: 50},
+//            {x: 'Oranges', y: 42}
+//         ]
+//      }
+//   ]
+//});
+}
