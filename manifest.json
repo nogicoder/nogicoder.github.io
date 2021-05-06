@@ -1,6 +1,6 @@
 {
-    "name": "sunshine_residence",
-    "short_name": "sunshine_residence",
+    "name": "ks_residence",
+    "short_name": "ks_residence",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
