@@ -1,6 +1,6 @@
 {
-    "name": "test_web_app",
-    "short_name": "test_web_app",
+    "name": "sunshine_residence",
+    "short_name": "sunshine_residence",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
