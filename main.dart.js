@@ -22317,7 +22317,7 @@ var $async$HM=A.J(function(a,b){if(a===1)return A.F(b,r)
 while(true)switch(s){case 0:if($.N==null)A.awr()
 $.N.toString
 s=2
-return A.D($.ayf().xK(0,"assets/assets/.env"),$async$HM)
+return A.D($.ayf().xK(0,"assets/.env"),$async$HM)
 case 2:q=$.ayf()
 if(!q.a)A.V(new A.PS())
 q=q.b.h(0,"BASE_URL")
