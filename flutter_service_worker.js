@@ -3,35 +3,6 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-<<<<<<< HEAD:flutter_service_worker.js
-  "assets/AssetManifest.json": "7b2c9d96326461818a6f4ceb7506fb26",
-"assets/assets/icons/ic_account.svg": "6a83bb0941b3a23b8ea46e2bf5220478",
-"assets/assets/icons/ic_account_active.svg": "53712f449f9c8765fbbbd0194b1d99a0",
-"assets/assets/icons/ic_announcement.svg": "42bd2f42b89d14766cb4ee6a054fa1ea",
-"assets/assets/icons/ic_announcement_active.svg": "735d234ae78644b1cc9fc1c3cb82c315",
-"assets/assets/icons/ic_area.svg": "c0fd07f2483720bfd91d1e705d91ecda",
-"assets/assets/icons/ic_buy_estate.svg": "ce6297769ca286b20901112dc6ce8d85",
-"assets/assets/icons/ic_cart.svg": "556af74fed8537491c54932bfcb4ddcd",
-"assets/assets/icons/ic_cart_active.svg": "66f9a20cb0d41d37958b7c61a5bf5ddd",
-"assets/assets/icons/ic_heart_filled.svg": "5633b1078e5cf1fd1277f8d4cf742822",
-"assets/assets/icons/ic_home_screen.svg": "a526a7e182778550cf0139299f7e00d1",
-"assets/assets/icons/ic_home_screen_active.svg": "3686de8b5a32fd3d371d83c68719548d",
-"assets/assets/icons/ic_room_no.svg": "705539f2d2d8597a479a1c9892953ca4",
-"assets/assets/icons/ic_view.svg": "9a8166e79b95d27eff0ccfab2b3696be",
-"assets/assets/images/img_demo_buying.png": "5036e436e2df96982eefa385c83725fe",
-"assets/assets/images/img_demo_incentive.png": "7fe621111c248bb231cc0a6f6ab64fb3",
-"assets/FontManifest.json": "7b2a36307916a9721811788013e65289",
-"assets/fonts/MaterialIcons-Regular.otf": "1288c9e28052e028aba623321f7826ac",
-"assets/NOTICES": "6a6ca5688ca2db7aa9c75e6619b54495",
-"favicon.png": "5dcef449791fa27946b3d35ad8803796",
-"icons/Icon-192.png": "ac9a721a12bbc803b44f645561ecb1e1",
-"icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
-"index.html": "6ae2216c1ed41601ce7b9a4c4657e648",
-"/": "6ae2216c1ed41601ce7b9a4c4657e648",
-"main.dart.js": "6ed6e94453da30e2584996b39ed49112",
-"manifest.json": "814f0917e45ecc668e8b68d3b54c6e06",
-"version.json": "8bb7e7d144d5df8da78a06b0d58d3c43"
-=======
   "version.json": "725fb6156ec8efd9a77a33dc0009d34d",
 "index.html": "547e8662f10a89763cff7eddf3ab12ee",
 "/": "547e8662f10a89763cff7eddf3ab12ee",
@@ -65,7 +36,6 @@ const RESOURCES = {
 "canvaskit/profiling/canvaskit.js": "ae2949af4efc61d28a4a80fffa1db900",
 "canvaskit/profiling/canvaskit.wasm": "95e736ab31147d1b2c7b25f11d4c32cd",
 "canvaskit/canvaskit.wasm": "4b83d89d9fecbea8ca46f2f760c5a9ba"
->>>>>>> master:flutter-web/flutter_service_worker.js
 };
 
 // The application shell files that are downloaded before a service worker can

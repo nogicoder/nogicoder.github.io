@@ -1,11 +1,6 @@
 {
-<<<<<<< HEAD:manifest.json
-    "name": "ks_residence",
-    "short_name": "ks_residence",
-=======
     "name": "Gomedi",
     "short_name": "Gomedi",
->>>>>>> master:flutter-web/manifest.json
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
